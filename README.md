@@ -25,7 +25,7 @@ http://localhost:3000/
 I wanted to improve my skills with React.js, JavaScript, CSS and also learn sorting algorithms.This project turned out to be a great way to achieve both of the aforementioned objectives at the same time. 
 ## Component Structure
 
-![component](https://github.com/enslaved-soul/react-sorting-algorihtm-visualizer/blob/main/public/component.PNG)
+![component](https://github.com/enslaved-soul/algoviz/blob/main/public/component.PNG)
 
 ## Meet the Algorithms
 
@@ -45,7 +45,7 @@ I wanted to improve my skills with React.js, JavaScript, CSS and also learn sort
 
 ## Design
 
-![home](https://github.com/enslaved-soul/react-sorting-algorihtm-visualizer/blob/main/public/home.PNG)
+![home](https://github.com/enslaved-soul/algoviz/blob/main/public/home.PNG)
 
 # react-sorting-algorithm-visualizer
 # react-sorting-algorithm-visualizer
