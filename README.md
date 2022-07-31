@@ -7,7 +7,7 @@ This is a progressive web app built using React.js to visualize sorting algorith
 
 Installation:
 ```
-$ git clone https://github.com/enslaved-soul/react-sorting-algorihtm-visualizer.git
+$ git clone https://github.com/enslaved-soul/algoviz.git
 $ cd react-sorting-algorihtm-visualizer
 $ npm install
 ```
